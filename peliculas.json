@@ -206,5 +206,19 @@
     "descripcion": "Porky's es una película de comedia norteamericana estrenada el 19 de marzo de 1981, dirigida y escrita por Bob Clark, producida y distribuida por 20th Century Fox.",
     "imagen": "https://images.justwatch.com/poster/89797354/s718/porkys.jpg",
     "urlDrive": "https://drive.google.com/file/d/1o0HutyYPTetyvVGSiJarAV1sQGvavhiL/view?usp=sharing"
+  },
+  {
+    "titulo": "Kojak",
+    "descripcion": "",
+    "imagen": "https://static.wikia.nocookie.net/doblaje/images/2/27/Kojak_70s.jpg/revision/latest?cb=20110901133652&path-prefix=es",
+    "urlDrive": "https://drive.google.com/file/d/1f1sd8nruYxy3e5vydVKN4Fvd-_ppWbf2/view?usp=sharing",
+    "clave": ""
+  },
+  {
+    "titulo": "Las calles de San Francisco (1972)",
+    "descripcion": "",
+    "imagen": "https://pics.filmaffinity.com/the_streets_of_san_francisco-880769967-mmed.jpg",
+    "urlDrive": "https://drive.google.com/file/d/1GJsODhELrlx8su_H0hcjYgfvRxdb7NR2/view?usp=sharing",
+    "clave": ""
   }
 ]
