@@ -1,5 +1,12 @@
 [
     {
+        "titulo": "El bueno, el malo y el feo",
+        "descripcion": "res hombres violentos pelean por una caja que alberga 200 000 dólares, la cual fue escondida durante la Guerra Civil. Dado que ninguno puede encontrar la tumba donde está el botín sin la ayuda de los otros dos, deben colaborar, pese a odiarse.",
+        "imagen": "https://m.media-amazon.com/images/S/pv-target-images/27053c1cf4b53e9cc3a01bc00f2bea73e6ee7ce6f280e9b53e888d0667bb449f.jpg",
+        "urlDrive": "https://drive.google.com/file/d/1Xn71eAiWv8lRSpXJINCfpRe4nlLl8NWV/view?usp=sharing",
+        "codigo": null
+    },
+    {
         "titulo": "La Casa Del Lago",
         "descripcion": "na doctora solitaria, que una vez ocupó una casa junto al lago, comienza a intercambiar cartas de amor con su antiguo residente, un arquitecto frustrado. Pero deben intentar desifrar el misterio detrás de su extraordinario romance antes de que sea demasiado tarde.",
         "imagen": "https://m.media-amazon.com/images/S/pv-target-images/59dc4a45a71c6582cc7227358a99b6aed9621f5474a3e46368e4d04fc7c8efbe.jpg",
@@ -273,11 +280,4 @@
         "descripcion": "Un profesor de Edimburgo y una variedad de colegas siguen el rastro de un explorador a través de un volcán islandés extinto hasta el centro de la tierra.",
         "imagen": "https://m.media-amazon.com/images/M/MV5BMTg2MjkyMjMzM15BMl5BanBnXkFtZTYwMjQ1ODg4._V1_.jpg",
         "urlDrive": "https://drive.google.com/file/d/130YMhi-XFGnAy8cJ76U2Wnk4CRy3KSVM/view?usp=sharing"
-    },
-    {
-        "titulo": "GREASE (VACELINA) (1978)",
-        "descripcion": "Verano de 1959. Sandy (Olivia Newton John) y Danny (John Travolta) han pasado un romántico y maravilloso verano juntos, pero, cuando las vacaciones se acaban, sus caminos se separan. Inesperadamente, vuelven a verse en el instituto Rydell, pero la actitud de Danny ya no es la misma: ya no es el chico encantador y atento que encandiló a Sandy; ahora es engreído e insensible. (",
-        "imagen": "https://i.pinimg.com/736x/76/65/a0/7665a0f3298262e079b2d8fd3fa734a2.jpg",
-        "urlDrive": "https://drive.google.com/file/d/1AfkegbTGrVEKXUN8Ninr54Kk0Mb037k2/view?usp=sharing"
-    }
-]
+ 
