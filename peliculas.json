@@ -1,5 +1,19 @@
 [
     {
+        "titulo": "Machete",
+        "descripcion": "Adaptación del falso tráiler incluido en Grindhouse. Machete es un ex federal mexicano que posee extraordinarias habilidades. Después de haber sido dado por muerto a raíz de un enfrentamiento con Torres, el rey mexicano de la droga, huye a Texas e intenta olvidar su trágico pasado.",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BZTY0OTZmYTMtMjhmOC00NzM3LTk2Y2MtMDg1ODNlOTkyNTcwXkEyXkFqcGc@._V1_.jpg",
+        "urlDrive": "https://drive.google.com/file/d/1oB1Um9GJK8mM2apNqa9tFgNtVY1H5RyI/view?usp=sharing",
+        "codigo": null
+    },
+    {
+        "titulo": "La mosca (1986)",
+        "descripcion": "Un científico se utiliza a sí mismo como cobaya en la realización de un complejo experimento de teletransportación. La prueba es un éxito, pero empieza a sufrir unos extraños cambios en su cuerpo. Al mismo tiempo, descubre que dentro de la cápsula donde realizó el experimento con él se introdujo una mosca.",
+        "imagen": "https://image.tmdb.org/t/p/original/mmJLkVX8CVRFVFnfRvjirzX16Oy.jpg",
+        "urlDrive": "https://drive.google.com/file/d/1fJbsO9h6AnXf653IWHEilv249BugOPKD/view?usp=sharing",
+        "codigo": null
+    },
+    {
         "titulo": "Escalofríos (Pesadillas) Cap No Te Duermas",
         "descripcion": "serie de televisión canadiense\nGoosebumps (Pesadillas en España y Escalofríos en Hispanoamérica) es una serie de televisión canadiense transmitida por los canales YTV de Canadá, Canal Famille de Quebec y Fox Kids de Estados Unidos, de 1995 a 1998, Jetix de Europa e India, NHK de Japón y KBS 2TV de Corea del Sur. Constituida como una serie antológica de terror dirigida a la audiencia juvenil e infantil, ",
         "imagen": "https://m.media-amazon.com/images/M/MV5BMmY0YzU1M2QtYjdiYy00M2QzLTk3OTEtNzI1YjAxNTA4ZmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
