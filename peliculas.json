@@ -1,5 +1,40 @@
 [
     {
+        "titulo": "1923 - El Hombre Mosca",
+        "descripcion": "Un joven de campo recién llegado a la ciudad debe tratar de escalar un edificio de 12 pisos, cuando su plan para ganar dinero acaba resultando contraproducente.",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BM2EzYzA2NTgtODQzYy00N2UwLWE0ZGYtMDU3YmYwZTFlOTA5XkEyXkFqcGc@._V1_.jpg",
+        "urlDrive": "https://drive.google.com/file/d/1y9OJY2Se0PJdiUjIL-fcA32TszqwDaRd/view?usp=sharing",
+        "codigo": null
+    },
+    {
+        "titulo": "La Laguna Azul (1980)",
+        "descripcion": "Dos niños que sobreviven a un naufragio, llegan a una isla tropical y con el paso de los años, crecen y se enamoran.",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BMTQ4ZjJlMjktYzA4My00MzJjLWIxNTAtZjhjYWQwYmNlNjE3XkEyXkFqcGc@._V1_.jpg",
+        "urlDrive": "https://drive.google.com/file/d/1eSZglGEJgj_lQtBkuC4FrnywqLFJUTvG/view?usp=sharing",
+        "codigo": "8384"
+    },
+    {
+        "titulo": "Caligula (1979)",
+        "descripcion": "Fue producida por la revista para adultos \"Penthouse\". Se trata de un drama de muy alto contenido erótico que narra el ascenso y caída del emperador romano Calígula (12 D.C-41 D.C), sobrino e hijo adoptivo del emperador Tiberio. Sus crueles métodos para ocupar el trono y su afición por todo tipo de orgías, humillaciones y vejaciones son el núcleo de esta polémica película. ",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BYjllZjhiZWUtMTM1OC00YWJkLWJkOWUtMWZlNzBhNjM2M2QxXkEyXkFqcGc@._V1_.jpg",
+        "urlDrive": "https://drive.google.com/file/d/1ITEdxgIrOSNHTCjUgqAFnsIiVRl_sm1G/view?usp=sharing",
+        "codigo": "8384"
+    },
+    {
+        "titulo": "Tiburón 1975",
+        "descripcion": "En la costa de un pequeño pueblo del este de Estados Unidos, un enorme tiburón blanco ataca a varias personas. Por temor a los nefastos efectos que este hecho podría tener sobre el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón termina con la vida de un bañista. Cuando el terror se apodera de todos, un veterano cazador de tiburones, un oceanógrafo y el jefe de la policía local se unen para intentar capturar al escualo.",
+        "imagen": "https://m.media-amazon.com/images/S/pv-target-images/db9eb3024ee3109c0345bdac8575df43989b81e457d26ab7895dbadee66a2b99.jpg",
+        "urlDrive": "https://drive.google.com/file/d/1tGa2AjZYx8neW6e6z5wgc-zC5g0geQkP/view?usp=sharing",
+        "codigo": null
+    },
+    {
+        "titulo": "Naranja mecánica (1971)",
+        "descripcion": "Gran Bretaña, en un futuro indeterminado. Alex (Malcolm McDowell) es un joven muy agresivo que tiene dos pasiones: la violencia desaforada y Beethoven. Es el jefe de la banda de los drugos, que dan rienda suelta a sus instintos más salvajes apaleando, violando y aterrorizando a la población. Cuando esa escalada de terror llega hasta el asesinato, Alex es detenido y, en prisión, se someterá voluntariamente a una innovadora experiencia de reeducación que pretende anular drásticamente cualquier atisbo de conducta antisocial.",
+        "imagen": "https://m.media-amazon.com/images/M/MV5BYjFiN2E5N2ItZjc1Yy00MzZmLThmZGQtNGIyYjljMzk1NmU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "urlDrive": "https://drive.google.com/file/d/1ZJ2L0x5EzI3_lJ3c13Q2hBRNa5Askza2/view?usp=sharing",
+        "codigo": "8384"
+    },
+    {
         "titulo": "Machete",
         "descripcion": "Adaptación del falso tráiler incluido en Grindhouse. Machete es un ex federal mexicano que posee extraordinarias habilidades. Después de haber sido dado por muerto a raíz de un enfrentamiento con Torres, el rey mexicano de la droga, huye a Texas e intenta olvidar su trágico pasado.",
         "imagen": "https://m.media-amazon.com/images/M/MV5BZTY0OTZmYTMtMjhmOC00NzM3LTk2Y2MtMDg1ODNlOTkyNTcwXkEyXkFqcGc@._V1_.jpg",
@@ -350,39 +385,4 @@
         "urlDrive": "https://drive.google.com/file/d/1EbHgQhySwZfR0lyCjmQnMkJ-P70RL74d/view?usp=sharing"
     },
     {
-        "titulo": "Misión Imposible ( 1966 )",
-        "descripcion": "Serie de TV (1966-1973). 7 temporadas. 171 episodios. Un clásico de la televisión -y originaria de varias y exitosas películas- que presenta a la Fuerza de Misiones Imposibles, un grupo de extraordinarios espías que son los mejores en sus respectivos ámbitos: el Líder (Steven Hill, en temporadas posteriores sustituido por Peter Graves), el Experto en Tecnología (Greg Morris), el Músculo (Peter Lupus), el Maestro del Disfraz (Martin Landau) y la Mujer Fatal (Barbara Rain, ganadora de un Emmy). Día tras día, esta fuerza de élite se enfrenta al fracaso, al apresamiento y a la muerte, pero nada importa más que su misión, anunciada en un mensaje que se autodestruirá tras emitirse..",
-        "imagen": "https://s3.opensubtitles.com/features/4/0/2/8204.jpg",
-        "urlDrive": "https://drive.google.com/file/d/15h74amMWOgxKqoCdsXl80ibEF7z2cw99/view?usp=sharing"
-    },
-    {
-        "titulo": "LOS 3 CHIFLADOS",
-        "descripcion": "un reconocimiento mundial. El conjunto conoció varias formaciones, y sus integrantes más festejados son mejor conocidos por sus apodos que por sus nombres: Moe, Larry y Curly (Curley en algunas de las presentaciones de sus cortos), y también Shemp, Joe y Curly Joe. Se hicieron famosos por sus casi dos centenares de cortometrajes, en donde cultivaron una comicidad basada en la violencia física y en el juego verbal, un género que se conoce bajo el nombre inglés de slapstick. (",
-        "imagen": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2024/5/w1280/o5aZTW2nFVCQzkiOnaiAXgRzKcc.jpg",
-        "urlDrive": "https://drive.google.com/file/d/1sn5gdexgBmAwbtndQ3sT29_6FPs2JHE0/view?usp=sharing"
-    },
-    {
-        "titulo": "Titanes en el ring: La película",
-        "descripcion": "Un chico se ve en apuros al asegurarle, a modo de mentira blanca para parecer interesante, a su amiga-novia Carolina que conoce a los \"Titanes en el Ring\", ella quiere pedirles autógrafos a cada uno. El padre del chico lo saca del apuro, con gran alivio los chicos se van haciendo amigos de Karadagian, el \"lider-fundador\" de los Titanes, y su \"troupe",
-        "imagen": "https://www.radiocantilo.com/adjuntos/cantilo/2018/10/titanes-en-el-ring-Silva-brothers-720x1024.jpg",
-        "urlDrive": "https://drive.google.com/file/d/1p2Lp7q2Vj6Yhxs2qBOE8GsqTYYA1dkP-/view?usp=sharing"
-    },
-    {
-        "titulo": "La Pandilla (1955)",
-        "descripcion": "Serie de TV. Animación. Comedia. Fantástico | Historias cruzadas. Sketches\nSinopsis\nSerie de TV (1987). 1 temporada. 13 episodios. Serie basada en la popular colección de cromos de \"La pandilla basura\". La serie está protagonizada por los personajes de Split Kit, Mess Elliot, Terry Cloth, Patty Putty y Clogged Duane, niños sucios con habilidades para ayudar a los demás. (F",
-        "imagen": "https://pics.filmaffinity.com/La_Pandilla_Serie_de_TV-229666271-large.jpg",
-        "urlDrive": "https://drive.google.com/file/d/1X_QOyjR9h5zQcBGiRuUJ7GAO5ErfyfYw/view?usp=sharing"
-    },
-    {
-        "titulo": "Viaje Al Centro De La Tierra (1959)",
-        "descripcion": "Un profesor de Edimburgo y una variedad de colegas siguen el rastro de un explorador a través de un volcán islandés extinto hasta el centro de la tierra.",
-        "imagen": "https://m.media-amazon.com/images/M/MV5BMTg2MjkyMjMzM15BMl5BanBnXkFtZTYwMjQ1ODg4._V1_.jpg",
-        "urlDrive": "https://drive.google.com/file/d/130YMhi-XFGnAy8cJ76U2Wnk4CRy3KSVM/view?usp=sharing"
-    },
-    {
-        "titulo": "GREASE (VACELINA) (1978)",
-        "descripcion": "Verano de 1959. Sandy (Olivia Newton John) y Danny (John Travolta) han pasado un romántico y maravilloso verano juntos, pero, cuando las vacaciones se acaban, sus caminos se separan. Inesperadamente, vuelven a verse en el instituto Rydell, pero la actitud de Danny ya no es la misma: ya no es el chico encantador y atento que encandiló a Sandy; ahora es engreído e insensible. (",
-        "imagen": "https://i.pinimg.com/736x/76/65/a0/7665a0f3298262e079b2d8fd3fa734a2.jpg",
-        "urlDrive": "https://drive.google.com/file/d/1AfkegbTGrVEKXUN8Ninr54Kk0Mb037k2/view?usp=sharing"
-    }
-]
+ 
